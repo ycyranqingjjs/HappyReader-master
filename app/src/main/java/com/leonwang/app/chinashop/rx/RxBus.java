@@ -19,7 +19,7 @@ import rx.subjects.Subject;
  * ofType操作符只发射指定类型的数据，其内部就是filter+cast
  *
  * <p/>
- * 当然也可以使用依赖的eventbus3.0 ycy
+ * 当然也可以使用依赖的eventbus3.0
  */
 public class RxBus
 {
